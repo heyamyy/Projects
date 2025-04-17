@@ -1,0 +1,80 @@
+SupplierID,Name,Brand,Contact,Email,Address,Rating
+1.0,Luxor Suppliers Pvt Ltd,Luxor,961546056,luxor@suppliers.com,"Luxor Street, City",4.4
+2.0,Dom's Suppliers Pvt Ltd,Dom's,960651821,dom's@suppliers.com,"Dom's Street, City",5.0
+3.0,Stabilo Suppliers Pvt Ltd,Stabilo,984540448,stabilo@suppliers.com,"Stabilo Street, City",4.0
+4.0,Faber-Castell Suppliers Pvt Ltd,Faber-Castell,939204164,faber-castell@suppliers.com,"Faber-Castell Street, City",3.7
+5.0,Sharpie Suppliers Pvt Ltd,Sharpie,967876715,sharpie@suppliers.com,"Sharpie Street, City",4.5
+6.0,Trimax Suppliers Pvt Ltd,Trimax,972324656,trimax@suppliers.com,"Trimax Street, City",4.8
+7.0,Apsara Suppliers Pvt Ltd,Apsara,920007953,apsara@suppliers.com,"Apsara Street, City",4.8
+8.0,Natraj Suppliers Pvt Ltd,Natraj,996754221,natraj@suppliers.com,"Natraj Street, City",4.3
+9.0,Classmate Suppliers Pvt Ltd,Classmate,970447937,classmate@suppliers.com,"Classmate Street, City",4.0
+10.0,Parker Suppliers Pvt Ltd,Parker,925500135,parker@suppliers.com,"Parker Street, City",3.8
+11.0,Reynolds Suppliers Pvt Ltd,Reynolds,922131899,reynolds@suppliers.com,"Reynolds Street, City",5.0
+12.0,Add Gel Suppliers Pvt Ltd,Add Gel,913958183,add gel@suppliers.com,"Add Gel Street, City",4.8
+13.0,Navneet Suppliers Pvt Ltd,Navneet,967712613,navneet@suppliers.com,"Navneet Street, City",4.1
+14.0,Brite Suppliers Pvt Ltd,Brite,953664170,brite@suppliers.com,"Brite Street, City",4.4
+15.0,Camlin Suppliers Pvt Ltd,Camlin,985235695,camlin@suppliers.com,"Camlin Street, City",3.8
+16.0,Cello Suppliers Pvt Ltd,Cello,923892729,cello@suppliers.com,"Cello Street, City",4.1
+17.0,BrewTech Suppliers Pvt Ltd,BrewTech,9872151895,brewtech@suppliers.com,"BrewTech Street, City",3.6
+18.0,SoundMax Suppliers Pvt Ltd,SoundMax,9819094541,soundmax@suppliers.com,"SoundMax Street, City",4.8
+19.0,FlexiFit Suppliers Pvt Ltd,FlexiFit,9821762658,flexifit@suppliers.com,"FlexiFit Street, City",4.6
+20.0,LumaGlow Suppliers Pvt Ltd,LumaGlow,9822625164,lumaglow@suppliers.com,"LumaGlow Street, City",4.3
+21.0,ChefMaster Suppliers Pvt Ltd,ChefMaster,9813339399,chefmaster@suppliers.com,"ChefMaster Street, City",4.3
+22.0,Nataraj Suppliers Pvt Ltd,Nataraj,9867464947,nataraj@suppliers.com,"Nataraj Street, City",4.4
+23.0,Kangaro Suppliers Pvt Ltd,Kangaro,9828227529,kangaro@suppliers.com,"Kangaro Street, City",4.2
+24.0,Fevistick Suppliers Pvt Ltd,Fevistick,9833069867,fevistick@suppliers.com,"Fevistick Street, City",4.7
+25.0,Solo Suppliers Pvt Ltd,Solo,9829171800,solo@suppliers.com,"Solo Street, City",4.8
+26.0,Philips Suppliers Pvt Ltd,Philips,9852809909,philips@suppliers.com,"Philips Street, City",4.1
+27.0,Dyson Suppliers Pvt Ltd,Dyson,9812798139,dyson@suppliers.com,"Dyson Street, City",4.5
+28.0,Prestige Suppliers Pvt Ltd,Prestige,9822082628,prestige@suppliers.com,"Prestige Street, City",4.6
+29.0,Morphy Richards Suppliers Pvt Ltd,Morphy Richards,9879914503,morphyrichards@suppliers.com,"Morphy Richards Street, City",4.2
+30.0,IFB Suppliers Pvt Ltd,IFB,9870259258,ifb@suppliers.com,"IFB Street, City",3.8
+31.0,Syska Suppliers Pvt Ltd,Syska,9818708216,syska@suppliers.com,"Syska Street, City",4.5
+32.0,Orpat Suppliers Pvt Ltd,Orpat,9813211895,orpat@suppliers.com,"Orpat Street, City",4.7
+33.0,Samsung Suppliers Pvt Ltd,Samsung,9820971605,samsung@suppliers.com,"Samsung Street, City",4.8
+34.0,Dell Suppliers Pvt Ltd,Dell,9863555349,dell@suppliers.com,"Dell Street, City",3.8
+35.0,Apple Suppliers Pvt Ltd,Apple,9853866903,apple@suppliers.com,"Apple Street, City",4.1
+36.0,JBL Suppliers Pvt Ltd,JBL,9894364527,jbl@suppliers.com,"JBL Street, City",4.0
+37.0,LG Suppliers Pvt Ltd,LG,9810223253,lg@suppliers.com,"LG Street, City",4.5
+38.0,Sony Suppliers Pvt Ltd,Sony,9811409354,sony@suppliers.com,"Sony Street, City",3.5
+39.0,Mi Suppliers Pvt Ltd,Mi,9811550873,mi@suppliers.com,"Mi Street, City",4.0
+40.0,Reebok Suppliers Pvt Ltd,Reebok,9868273846,reebok@suppliers.com,"Reebok Street, City",4.5
+41.0,PowerMax Suppliers Pvt Ltd,PowerMax,9899072940,powermax@suppliers.com,"PowerMax Street, City",4.7
+42.0,Kobo Suppliers Pvt Ltd,Kobo,9860143926,kobo@suppliers.com,"Kobo Street, City",4.2
+43.0,Reach Suppliers Pvt Ltd,Reach,9851175050,reach@suppliers.com,"Reach Street, City",3.7
+44.0,Boldfit Suppliers Pvt Ltd,Boldfit,9828422691,boldfit@suppliers.com,"Boldfit Street, City",4.4
+45.0,Decathlon Suppliers Pvt Ltd,Decathlon,9893706240,decathlon@suppliers.com,"Decathlon Street, City",3.8
+46.0,BodyFit Suppliers Pvt Ltd,BodyFit,9815070952,bodyfit@suppliers.com,"BodyFit Street, City",4.5
+47.0,Ajanta Suppliers Pvt Ltd,Ajanta,9851761730,ajanta@suppliers.com,"Ajanta Street, City",4.7
+48.0,IKEA Suppliers Pvt Ltd,IKEA,9870038251,ikea@suppliers.com,"IKEA Street, City",4.3
+49.0,Spaces Suppliers Pvt Ltd,Spaces,9892893938,spaces@suppliers.com,"Spaces Street, City",3.9
+50.0,Artwale Suppliers Pvt Ltd,Artwale,9891412000,artwale@suppliers.com,"Artwale Street, City",4.7
+51.0,Hometown Suppliers Pvt Ltd,Hometown,9865330653,hometown@suppliers.com,"Hometown Street, City",4.1
+52.0,Home Centre Suppliers Pvt Ltd,Home Centre,9831838952,homecentre@suppliers.com,"Home Centre Street, City",4.0
+53.0,Pigeon Suppliers Pvt Ltd,Pigeon,9812628363,pigeon@suppliers.com,"Pigeon Street, City",4.7
+54.0,Hawkins Suppliers Pvt Ltd,Hawkins,9842314860,hawkins@suppliers.com,"Hawkins Street, City",4.7
+55.0,LaOpala Suppliers Pvt Ltd,LaOpala,9857979778,laopala@suppliers.com,"LaOpala Street, City",4.6
+56.0,AmazonBasics Suppliers Pvt Ltd,AmazonBasics,9841162532,amazonbasics@suppliers.com,"AmazonBasics Street, City",3.6
+57.0,Milton Suppliers Pvt Ltd,Milton,9839772217,milton@suppliers.com,"Milton Street, City",3.9
+58.0,Wonderchef Suppliers Pvt Ltd,Wonderchef,9810048035,wonderchef@suppliers.com,"Wonderchef Street, City",4.3
+59.0,Logitech Suppliers Pvt Ltd,Logitech,9843592135,logitech@suppliers.com,"Logitech Street, City",4.2
+60.0,boAt Suppliers Pvt Ltd,boAt,9817483649,boat@suppliers.com,"boAt Street, City",4.8
+61.0,SanDisk Suppliers Pvt Ltd,SanDisk,9871448230,sandisk@suppliers.com,"SanDisk Street, City",4.5
+62.0,India Gate Suppliers Pvt Ltd,India Gate,9885757657,indiagate@suppliers.com,"India Gate Street, City",4.8
+63.0,Fortune Suppliers Pvt Ltd,Fortune,9887999729,fortune@suppliers.com,"Fortune Street, City",3.7
+64.0,Aashirvaad Suppliers Pvt Ltd,Aashirvaad,9893458406,aashirvaad@suppliers.com,"Aashirvaad Street, City",3.7
+65.0,Dhampure Suppliers Pvt Ltd,Dhampure,9885301458,dhampure@suppliers.com,"Dhampure Street, City",3.9
+66.0,Tata Suppliers Pvt Ltd,Tata,9899340986,tata@suppliers.com,"Tata Street, City",3.7
+67.0,GreenSoul Suppliers Pvt Ltd,GreenSoul,9819867309,greensoul@suppliers.com,"GreenSoul Street, City",4.7
+68.0,Ikea Suppliers Pvt Ltd,Ikea,9899698511,ikea@suppliers.com,"Ikea Street, City",3.6
+69.0,Nilkamal Suppliers Pvt Ltd,Nilkamal,9836200536,nilkamal@suppliers.com,"Nilkamal Street, City",4.6
+70.0,Godrej Suppliers Pvt Ltd,Godrej,9834687184,godrej@suppliers.com,"Godrej Street, City",4.0
+71.0,Levis Suppliers Pvt Ltd,Levis,9824839488,levis@suppliers.com,"Levis Street, City",4.8
+72.0,Pepe Jeans Suppliers Pvt Ltd,Pepe Jeans,9826105958,pepejeans@suppliers.com,"Pepe Jeans Street, City",4.7
+73.0,Woodland Suppliers Pvt Ltd,Woodland,9888584392,woodland@suppliers.com,"Woodland Street, City",4.3
+74.0,Arrow Suppliers Pvt Ltd,Arrow,9848831859,arrow@suppliers.com,"Arrow Street, City",4.8
+75.0,LEGO Suppliers Pvt Ltd,LEGO,9841122539,lego@suppliers.com,"LEGO Street, City",4.4
+76.0,Hot Wheels Suppliers Pvt Ltd,Hot Wheels,9823861725,hotwheels@suppliers.com,"Hot Wheels Street, City",3.9
+77.0,Barbie Suppliers Pvt Ltd,Barbie,9826229377,barbie@suppliers.com,"Barbie Street, City",3.7
+78.0,Funskool Suppliers Pvt Ltd,Funskool,9863775634,funskool@suppliers.com,"Funskool Street, City",3.6
+,Agro Foods company,Agra food pvt ltd,9711247872,rushaliverma03@gmail.com,Chattarpur extension,3.0
